@@ -1,0 +1,32 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Department</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34465</md:content-id>
+  <md:title>Department</md:title>
+  <md:abstract>This module is to select the department.</md:abstract>
+  <md:uuid>72bbf5c6-980c-4693-8ea8-56cf2199e03c</md:uuid>
+</metadata>
+
+<content>
+  <list id="eip-927"><title>Select Department</title><item><link document="m34464" version="1.2">Aerospace Engineering</link></item>
+<item>Biosciences and Bioengineering</item>
+<item>Chemical Engineering</item>
+<item>Chemistry</item>
+<item>Civil Engineering</item>
+<item>Computer Science and Engineering</item>
+<item>Earth Sciences</item>
+<item><link document="m34466" version="1.6">Electrical Engineering</link></item>
+<item>Energy Science and Engineering</item>
+<item>Humanities and Social Science</item>
+<item>Industrial Design Center</item>
+<item>Mathematics</item>
+<item>Mechanical Engineering</item>
+<item>Metallurgical Engineering and Materials Science</item>
+<item>Physics</item>
+
+
+</list>
+</content>
+
+</document>

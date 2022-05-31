@@ -1,0 +1,32 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Course List</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34464</md:content-id>
+  <md:title>Course List</md:title>
+  <md:abstract>List Of Courses for Aerospace Engineering</md:abstract>
+  <md:uuid>2936b89e-f793-411e-9ef7-e582318b6e4f</md:uuid>
+</metadata>
+
+<content>
+  <table id="eip-392" summary="Aerospace Engineering"><title>List of Courses</title>
+<tgroup cols="3"><tbody>
+  <row>
+    <entry><emphasis>Course Code</emphasis></entry>
+    <entry><emphasis>Course Name</emphasis></entry>
+    <entry><emphasis>Faculty</emphasis></entry>
+  </row>
+  <row>
+    <entry>AE651</entry>
+    <entry>Aerodynamics of Compressors and Turbines</entry>
+    <entry>Prof Bhaskar Roy </entry>
+  </row>
+</tbody>
+
+
+
+</tgroup>
+</table>
+</content>
+
+</document>

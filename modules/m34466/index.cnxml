@@ -1,0 +1,41 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Course List for Electrical Engineering</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34466</md:content-id>
+  <md:title>Course List for Electrical Engineering</md:title>
+  <md:abstract>List Of Courses For Electrical Engineering</md:abstract>
+  <md:uuid>2daf9751-5f93-4f8a-baaf-43b0aa0bae39</md:uuid>
+</metadata>
+
+<content>
+  <table id="eip-338" summary="Cours list"><title>Cours list for Electrical Engineering</title>
+<tgroup cols="3"><tbody>
+  <row>
+    <entry><emphasis>Course Code</emphasis></entry>
+    <entry><emphasis>Course Name</emphasis></entry>
+    <entry><emphasis>Faculty</emphasis></entry>
+  </row>
+  <row>
+    <entry><link document="m34469" version="1.3">EE111</link></entry>
+    <entry>Introduction to Electrical Systems</entry>
+    <entry>Prof.B.G.Fernandes</entry>
+  </row>
+  <row>
+    <entry>EE603</entry>
+    <entry>Digital Signal Processing and its Applications</entry>
+    <entry>Prof. Vikram M. Gadre</entry>
+  </row>
+</tbody>
+
+
+
+
+
+
+
+</tgroup>
+</table>
+</content>
+
+</document>
